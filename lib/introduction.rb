@@ -13,7 +13,7 @@
 
 
 def introduction (name) 
-  print "Hi, my name is #{name}"
+  print "Hi, my name is #{name}\n"
 end
 
 
