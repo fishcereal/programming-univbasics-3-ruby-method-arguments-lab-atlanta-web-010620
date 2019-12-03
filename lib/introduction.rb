@@ -12,7 +12,9 @@
 
 
 
-
+def introduction (name) 
+  puts "this is the name with string interpolation #{name}"
+end
 
 
 
