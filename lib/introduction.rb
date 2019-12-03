@@ -13,7 +13,7 @@
 
 
 def introduction (name) 
-  puts "this is the name with string interpolation #{name}"
+  print "Hi, my name is #{name}"
 end
 
 
